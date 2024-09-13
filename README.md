@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.  
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) with Java to enhance my problem-solving skills.
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
-- 📫 How to reach me You can connect with me on LinkedIn[] or email me at [kajalahirwar13032003@gmail.com].
+- 📫 How to reach me You can connect with me on LinkedIn[linkedin.com/in/kajal-ahirwar-b661732a8] or email me at [kajalahirwar13032003@gmail.com].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating frontend projects and solving DSA problems.
 
