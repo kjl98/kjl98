@@ -1,4 +1,6 @@
 <h1>Hi, I'm Kajal Ahirwar</h1>
+<img src="![Uploading coding.gif…]()
+" alt="Image" width="500" height="600">
 
 - 👋 Hi, I’m Kajal Ahirwar
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.  
