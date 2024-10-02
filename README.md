@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) with Java to enhance my problem-solving skills.
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
 - 📫 How to reach me :
-- <a href="linkedin.com/in/kajal-ahirwar-b661732a8"><i class="fa-brands fa-linkedin"></i><a>
+- <a href="linkedin.com/in/kajal-ahirwar-b661732a8"><i class="fa-brands fa-linkedin" color="blue"></i><a>
 -  or email me at [kajalahirwar13032003@gmail.com].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating frontend projects and solving DSA problems.
