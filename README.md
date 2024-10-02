@@ -1,3 +1,5 @@
+<h1>Hi, I'm Kajal Ahirwar</h1>
+
 - 👋 Hi, I’m Kajal Ahirwar
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.  
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) with Java to enhance my problem-solving skills.
