@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kajal Ahirwar</h1>
+<h1>                                Hi, I'm Kajal Ahirwar</h1>
 
 <img src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
