@@ -9,8 +9,8 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
   
 # 📫 How to reach me : 
-       <br>On linkedin : <a href="linkedin.com/in/kajal-ahirwar-b661732a8">linkedin.com/in/kajal-ahirwar-b661732a8</a> <br> 
-       Email : kajalahirwar13032003@gmail.com
+  <br>On linkedin : <a href="linkedin.com/in/kajal-ahirwar-b661732a8">linkedin.com/in/kajal-ahirwar-b661732a8</a> <br> 
+  Email : kajalahirwar13032003@gmail.com
   
 - 😄 Pronouns: She/Her
   
