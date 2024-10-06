@@ -1,4 +1,4 @@
-<h1><span>                              Hi, I'm Kajal Ahirwar</span></h1>
+ # Hi, I'm Kajal Ahirwar
 
 <img src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
@@ -8,7 +8,7 @@
   
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
   
-- 📫 How to reach me : 
+# 📫 How to reach me : 
        <br>On linkedin : <a href="linkedin.com/in/kajal-ahirwar-b661732a8">linkedin.com/in/kajal-ahirwar-b661732a8</a> <br> 
        Email : kajalahirwar13032003@gmail.com
   
