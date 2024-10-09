@@ -1,5 +1,5 @@
- <h1 align="centre">Hi, I'm Kajal Ahirwar</h1>
- <h3 align="centre">Full stack developer</h3>
+<h1 align="centre">Hi, I'm Kajal Ahirwar</h1>
+<h3 align="centre">Full stack developer</h3>
 
 <img align="right" src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
