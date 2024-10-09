@@ -1,6 +1,7 @@
- # Hi, I'm Kajal Ahirwar
+ <h1 align="centre">Hi, I'm Kajal Ahirwar</h1>
+ <h3 align="centre">Full stack developer</h3>
 
-<img src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
+<img align="right" src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.
   
