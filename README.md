@@ -1,7 +1,9 @@
-<h1 align="centre">Hi, I'm Kajal Ahirwar</h1>
-<h3 align="centre"></h3>
+![logo](https://github.com/user-attachments/assets/da6990cb-8f29-421f-904c-385936c9c841)
 
-<img src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
+<h1 align="center">Hi, I'm Kajal Ahirwar</h1>
+<h3 align="center">web developer</h3>
+<br>
+<img align= "right" src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.
   
@@ -10,14 +12,13 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
 
 - 😄 Pronouns: She/Her 
+
+<br>
+<br>
   
 # 📫 How to reach me : 
-  Email : kajalahirwar13032003@gmail.com
+  Email : kajalahirwar8913@gmail.com
 
-<!---
-kjl98/kjl98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61563605822757) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@cazal_98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kajal-ahirwar-b661732a8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26820338/kajal-ahirwar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/Ahirwar__Kajal) 
@@ -31,3 +32,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kjl98&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!---
+kjl98/kjl98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
