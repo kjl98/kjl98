@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/da6990cb-8f29-421f-904c-385936c9c841)
 
 <h1 align="center">Hi, I'm Kajal Ahirwar</h1>
-<h3 align="center">a web developer</h3>
+<h3 align="center">Aspiring web developer</h3>
 <br>
 <img align= "right" src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
 
