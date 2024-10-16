@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Kajal Ahirwar</h1>
 <h3 align="center">Aspiring web developer</h3>
 <br>
-<img align= "right" src="https://github.com/user-attachments/assets/4a9c6b85-3da8-4d84-9528-d85368d1f3c7" alt="Image">
+<img align= "right" src="https://github.com/user-attachments/assets/b07d3dbf-31ca-4e53-b16d-3e3028a01cdc" alt="Image">
 
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.
   
