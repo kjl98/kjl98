@@ -1,4 +1,3 @@
-![logo](https://github.com/user-attachments/assets/da6990cb-8f29-421f-904c-385936c9c841)
 
 <h1 align="center">Hi, I'm Kajal Ahirwar</h1>
 <h3 align="center">Aspiring web developer</h3>
