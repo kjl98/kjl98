@@ -47,6 +47,11 @@
 </div>
 </details>
 
+# Holopin-badges:
+
+![Badges-img](https://github.com/user-attachments/assets/54e631cc-bdea-4b16-aa59-884345094289)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kjl98&icon=0&color=0)](https://visitcount.itsvg.in)
 
