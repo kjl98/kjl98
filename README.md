@@ -12,9 +12,6 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
 
 - 😄 Pronouns: She/Her 
-
-<br>
-<br>
   
 # 📫 How to reach me : 
   Email : kajalahirwar8913@gmail.com
