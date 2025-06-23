@@ -10,7 +10,9 @@
   
 - 💞️ I’m looking to collaborate on open-source projects, web development initiatives, or any exciting tech challenges.
 
-- 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her
+
+<br/><br/>
   
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61563605822757) 
