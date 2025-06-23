@@ -4,6 +4,7 @@
 <br>
 <img align="right" src="https://github.com/user-attachments/assets/0c2c8796-7db7-459f-bfbc-bea786a98748" alt="Image">
 
+<br/>
 - 👀 I’m interested in web development, particularly frontend technologies, and creating innovative web applications.
   
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) with Java to enhance my problem-solving skills.
